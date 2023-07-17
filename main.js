@@ -33,8 +33,7 @@ function mostrarProductos() {
         const card = document.createElement("div");
         card.classList.add("productoCard");
         card.classList.add("card-body");
-
-        // Add the class name based on the producto color
+        
         const nombreColor = producto.color === "galvanizado" ? "galvanizado" : "negro";
 
         card.innerHTML = `
