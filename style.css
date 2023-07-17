@@ -1,0 +1,76 @@
+.botonAgregar {
+  height: 40px;
+  margin: 10px 20px 10px 50px;
+}
+.formNuevo {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.textoLabel {
+  font-size: 18px;
+  font-weight: 500;
+}
+.hidden {
+  display: none;
+}
+.productoCard {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 20px 10px 20px;
+  display: flex;
+}
+.textTitulo {
+  margin: auto;
+}
+.colorProducto {
+  width: 50px;
+  height: 20px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.galvanizado {
+  background-color: #c0c0c0;
+}
+
+.negro {
+  background-color: #000000;
+}
+.textoDesc {
+  margin: auto;
+  width: 300px;
+  word-wrap: break-word;
+}
+.precio {
+  margin: auto;
+  font-weight: 500;
+  color: #46c514;
+}
+.botonBorrar {
+  height: 40px;
+  margin: auto;
+}
+
+.agregarProdForm {
+  margin-top: 20px;
+}
+
+.botonesAccion {
+  margin-top: 20px;
+}
+
+.botonCalculo {
+  height: 40px;
+  margin: auto;
+  margin-left: 20px;
+}
+.botonGuardar {
+  height: 40px;
+  margin: auto;
+}
+.precioTotal {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: 500;
+}
